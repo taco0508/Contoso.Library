@@ -8,7 +8,7 @@ namespace Contoso.ClassLibrary1
     {
         public void Run()
         {
-            Console.WriteLine("Hello World! 1.0.4");
+            Console.WriteLine("Hello World! 1.0.7");
         }
     }
 }
